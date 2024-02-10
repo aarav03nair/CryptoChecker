@@ -1,11 +1,12 @@
-#Angular web app for crypto tracking
-##Use of:
+# Angular web app for crypto tracking
+
+## Use of:
 
   1. Routing
   2. Angular Material
   3. ngOnInit lifecycle hook
 
-##Functionality:
+## Functionality:
 
   1. scrolling trends of cryptos
   2. tale ith search bar and sorting options
