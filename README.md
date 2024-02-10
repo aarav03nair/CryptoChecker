@@ -1,3 +1,15 @@
+#Angular web app for crypto tracking
+##Use of:
+
+  1. Routing
+  2. Angular Material
+  3. ngOnInit lifecycle hook
+
+##Functionality:
+
+  1. scrolling trends of cryptos
+  2. tale ith search bar and sorting options
+  3. individual crypto currenty trends in various time frames
 # CryptoCheckerYt
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
